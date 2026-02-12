@@ -1,0 +1,7 @@
+{
+  "name": "MANAS360 InsuraConnect",
+  "description": "Enterprise-grade B2B insurance integration platform for mental health providers, featuring real-time eligibility (FHIR/HL7), automated claim submission, and AI-powered denial handling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
